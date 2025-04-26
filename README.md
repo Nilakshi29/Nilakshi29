@@ -40,6 +40,16 @@ Hi there! I'm Nilakshi Shree, currently pursuing a **B.Tech in Computer Science 
 - Preprocessed loan data and implemented **classification models** (Logistic Regression, Decision Trees) for **100% accurate predictions**.  
 - Evaluated model performance using metrics like **accuracy reports** and **confusion matrices**.  
 
+### **Save Me**  
+- **Secure password management system** utilizing React for the frontend, Node.js for the backend, and MongoDB as database.
+- **Integrated encryption protocols** and secure hashing algorithms to ensure robust protection of user credentials.
+- **Enhanced application performance and scalability** by adopting modular coding practices and optimizing database queries.
+
+### **Youtube Threater WebPage**  
+- **Designed YouTube streaming webpage** integrating the YouTube API.
+- Implemented a **responsive user interface** with dynamic video rendering and a sidebar for video recommendations.
+- **Enhanced application performance and scalability** by adopting modular coding practices and optimizing database queries.
+
 ---
 
 ## 🏆 Achievements  
