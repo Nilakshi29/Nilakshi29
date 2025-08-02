@@ -7,7 +7,8 @@ Hi there! I'm Nilakshi Shree, currently pursuing a **B.Tech in Computer Science 
 ## 🛠 Skills  
 
 **Technical Skills:**  
-- **Programming Languages:** Java, Python  
+- **Programming Languages:** Java, Python
+- **Web D:** React, Node, MongoDB
 - **Python Libraries:** Pandas, NumPy, Scikit-learn  
 - **Machine Learning:** Regression, Decision Trees, SVM, KNN, Random Forest  
 - **Deep Learning:** Neural Networks, CNN, RNN, PyTorch, NLP  
@@ -17,43 +18,13 @@ Hi there! I'm Nilakshi Shree, currently pursuing a **B.Tech in Computer Science 
 **Soft Skills:**  
 - Team Collaboration  
 - Leadership  
-- Problem-Solving  
-
----
-
-## 📂 Experience  
-
-### MERN Stack Intern | **May 2024 - July 2024**  
-- **Save Me:** Built a secure password management system using **React**, **Node.js**, and **MongoDB**, with encryption protocols for robust user protection.  
-- **YouTube Theater:** Developed a dynamic streaming webpage with **React**, **CSS**, and **RESTful APIs**, featuring responsive UI and video integration.  
-
----
-
-## 🔬 Projects  
-
-### **Car Rental Analytics**  
-- Used **Random Forest Model** to predict ride cancellations with **94% accuracy**, enhancing decision-making.  
-- Conducted **feature engineering** and **data preprocessing** for reliable model performance.  
-- Applied **clustering techniques** to uncover actionable insights on customer behavior.  
-
-### **Loan Classification**  
-- Preprocessed loan data and implemented **classification models** (Logistic Regression, Decision Trees) for **100% accurate predictions**.  
-- Evaluated model performance using metrics like **accuracy reports** and **confusion matrices**.  
-
-### **Save Me**  
-- **Secure password management system** utilizing React for the frontend, Node.js for the backend, and MongoDB as database.
-- **Integrated encryption protocols** and secure hashing algorithms to ensure robust protection of user credentials.
-- **Enhanced application performance and scalability** by adopting modular coding practices and optimizing database queries.
-
-### **Youtube Threater WebPage**  
-- **Designed YouTube streaming webpage** integrating the YouTube API.
-- Implemented a **responsive user interface** with dynamic video rendering and a sidebar for video recommendations.
-- **Enhanced application performance and scalability** by adopting modular coding practices and optimizing database queries.
+- Problem-Solving 
 
 ---
 
 ## 🏆 Achievements  
 
+- Choosen among 45 mentees **nationwide** for **Cisco's Women in Tech (CWIP) Mentorship** Program.
 - **Top 5 Finalist:** Codewars Contest hosted by Protege-IGDTUW.  
 - Earned **LeetCode 50 Days Badge** for consistent problem-solving, ranked in the top 6.2% globally.  
 - Participated in hackathons like **HackFest (GFG)** and **Vihaan007 (IEEE-DTU)**, developing impactful projects on sustainability.
@@ -71,6 +42,6 @@ Hi there! I'm Nilakshi Shree, currently pursuing a **B.Tech in Computer Science 
 ### 🌐 Connect with Me  
 
 - 📧 **Email:** nilakshishree@gmail.com  
-- 💼 **LinkedIn:** [Nilakshi Shree](www.linkedin.com/in/nilakshi-shree)   
+- 💼 **LinkedIn:** [Nilakshi Shree](www.linkedin.com/in/nilakshi-shree)
 
 ---
