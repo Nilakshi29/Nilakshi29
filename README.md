@@ -58,7 +58,7 @@ goal:
 ## 👩‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,typescript"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript"/>
 </p>
 
 
@@ -91,7 +91,7 @@ goal:
 ## 🛠 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker,postman"/>
 </p>
 
 
